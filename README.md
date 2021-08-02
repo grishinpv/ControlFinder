@@ -9,3 +9,6 @@ Based on: Yashied http://www.autoitscript.com/forum/topic/126716-control-viewer-
 * переключение Disable\Enable для контрола
 * подключение к буферу обмена
 
+<p align="left">
+  <img src="/doc/Control Finder2.gif" width=600>
+</p>
